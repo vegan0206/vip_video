@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue-video": "^0.1.7"
