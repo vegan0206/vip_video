@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Iview from 'iview'
+
+Vue.use(Iview)
 
 Vue.config.productionTip = false
 

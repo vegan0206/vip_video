@@ -33,11 +33,11 @@
     'use strict';
 	
 	/******************************渲染组件-开始******************************/
-	GM_addStyle('#deCodePanel{position:absolute;z-index:9999;text-align:center;border-radius:5px;background-color:hsla(0,0%,93%,.76);}' +
-				'.toggleClass_opacity{opacity:0;}' +
-				'#deCodePanel>ul>li:not(:last-child){border-bottom:1px solid #bdbcbc;}' + 
-				'#deCodePanel>ul>li{line-height:25px;list-style:none;font-size: 14px;}' +
-				'#deCodePanel>ul>li>a{color:red;}');
+	// GM_addStyle('#deCodePanel{position:absolute;z-index:9999;text-align:center;border-radius:5px;background-color:hsla(0,0%,93%,.76);}' +
+	// 			'.toggleClass_opacity{opacity:0;}' +
+	// 			'#deCodePanel>ul>li:not(:last-child){border-bottom:1px solid #bdbcbc;}' + 
+	// 			'#deCodePanel>ul>li{line-height:25px;list-style:none;font-size: 14px;}' +
+	// 			'#deCodePanel>ul>li>a{color:red;}');
 	
 	/******************************VIP视频解析网址列表-开始******************************/
 	/**
